@@ -1,0 +1,5 @@
+name: BoltGriefPrevention
+version: '1.0-SNAPSHOT'
+main: eu.projectenyo.boltGriefPrevention.BoltGriefPrevention
+api-version: '1.21'
+depend: [ Bolt, GriefPrevention ]
